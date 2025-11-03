@@ -25,7 +25,7 @@ This is an academic practice project aiming to replicate the [Reservia template]
 
 ## Progress
 
-- [ ] **Initial file structure**
+- [x] **Initial workspace structure**
 
 - [ ] Add **image files** to be used
 
