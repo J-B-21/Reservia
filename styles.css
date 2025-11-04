@@ -1,0 +1,12 @@
+:root {
+    --virgin-bg-color: white;
+    --subtext-color: #333;
+    --primary-color: #0065fc;
+    --border-color: #d9d9d9;
+    --bg-color: #f2f2f2;
+    --wrapIcon-color: #deebff;
+    --font: "Raleway", "sans-serif";
+    --maxW: 1440px;
+    --fontwgt1: 800;
+    --fontwgt2: 700;
+}

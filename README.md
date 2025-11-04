@@ -31,6 +31,8 @@ This is an academic practice project aiming to replicate the [Reservia template]
 
 - [x] **Basic HTML structure (Skeleton)**
 
+- [x] **CSS variables (From template)**
+
 - [ ] **Header**
 
 - [ ] **Search section**
