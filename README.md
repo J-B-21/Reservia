@@ -29,7 +29,7 @@ This is an academic practice project aiming to replicate the [Reservia template]
 
 - [x] Add **images** to be used
 
-- [ ] **Base HTML structure (Skeleton)**
+- [x] **Basic HTML structure (Skeleton)**
 
 - [ ] **Header**
 
